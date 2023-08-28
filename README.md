@@ -1,6 +1,7 @@
 # RTFAP2 - Real-time Fraud Analysis Platform
 
 How to use modern, real-time, distributed streaming technologies to build a working model of a scalable fraud-detection platform. This demo will use these technologies
+Real-Time High Scale Financial Fraud Risk Management 
 
 
 Team Enigma
