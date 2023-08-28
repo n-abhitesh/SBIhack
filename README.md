@@ -1,6 +1,21 @@
 # RTFAP2 - Real-time Fraud Analysis Platform
 
-How to use modern, real-time, distributed streaming technologies to build a working model of a scalable fraud-detection platform. This demo will use these technologies:
+How to use modern, real-time, distributed streaming technologies to build a working model of a scalable fraud-detection platform. This demo will use these technologies
+
+
+Team Enigma
+
+Names:
+Mohammed Sonu, N. Abhitesh
+
+
+email:
+
+mohammedsonu05@gmail.com
+
+n.abhitesh23@gmail.com
+
+----------------------------------------------------------------------------------
 
 - Cassandra
 - Spark
